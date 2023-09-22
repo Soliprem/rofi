@@ -1,0 +1,7 @@
+@theme "mid_box"
+element-icon {
+    size: 100;
+    margin: 0 10 0 0;
+    border-radius: 7px;
+    padding: -24px 0px;
+}
